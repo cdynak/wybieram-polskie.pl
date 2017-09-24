@@ -1,21 +1,29 @@
 # cleaning
 
 http://inco.pl
+
 http://hal.com.pl
+
 http://lakma.com
 
 # electronics
 
 http://lechpol.eu
+
 https://krugermatz.com
+
 http://goclever.com
+
 http://manta.com.pl
+
 http://modecom.com
+
 http://myphone.pl
 
 # furniture
 
 https://brw.com.pl
+
 http://nowystyl.pl
 
 # food
