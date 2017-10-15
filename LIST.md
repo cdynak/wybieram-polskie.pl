@@ -20,11 +20,17 @@ http://modecom.com
 
 http://myphone.pl
 
+# software
+
+https://best.net.pl
+
 # furniture
 
 https://brw.com.pl
 
 http://nowystyl.pl
+
+http://cermag.info
 
 # food
 
@@ -41,3 +47,5 @@ https://4f.com.pl
 # websites
 
 https://www.pola-app.pl
+
+https://ffr.pl
