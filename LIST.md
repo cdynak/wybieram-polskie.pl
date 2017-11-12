@@ -1,4 +1,4 @@
-# cleaning
+## cleaning
 
 http://inco.pl
 
@@ -6,7 +6,7 @@ http://hal.com.pl
 
 http://lakma.com
 
-# electronics
+## electronics
 
 http://lechpol.eu
 
@@ -20,11 +20,11 @@ http://modecom.com
 
 http://myphone.pl
 
-# software
+## software
 
 https://best.net.pl
 
-# furniture
+## furniture
 
 https://brw.com.pl
 
@@ -32,20 +32,26 @@ http://nowystyl.pl
 
 http://cermag.info
 
-# food
+## food
 
 http://astra.com.pl
 
-# transport
+## transport
 
 http://emobilitypoland.pl
 
-# clothes
+## clothes
 
 https://4f.com.pl
 
-# websites
+## websites
 
 https://www.pola-app.pl
 
 https://ffr.pl
+
+# HISTORY
+
+http://www.henrilloyd.pl
+
+https://www.patek.com
