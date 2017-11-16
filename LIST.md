@@ -46,6 +46,8 @@ https://4f.com.pl
 
 ## websites
 
+http://wszystkocopolskie.blogspot.com/p/lista-polskich-firm.html?m=1
+
 https://www.pola-app.pl
 
 https://ffr.pl
