@@ -48,6 +48,8 @@ https://4f.com.pl
 
 http://wszystkocopolskie.blogspot.com/p/lista-polskich-firm.html?m=1
 
+http://tojestpolskie.pl/kategorie.html
+
 https://www.pola-app.pl
 
 https://ffr.pl
